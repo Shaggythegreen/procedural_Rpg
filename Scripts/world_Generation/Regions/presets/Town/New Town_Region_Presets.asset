@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5d0d364d80946b4f9b6dce7d7a9f360, type: 3}
+  m_Name: New Town_Region_Presets
+  m_EditorClassIdentifier: 
+  _name: 
+  biome: 0
+  LeftTopCorner: {fileID: 0}
+  RightTopCorner: {fileID: 0}
+  TopCenter: {fileID: 0}
+  LeftCenter: {fileID: 0}
+  Center: {fileID: 0}
+  RightCenter: {fileID: 0}
+  BottomCenter: {fileID: 0}
+  BottomLeftCorner: {fileID: 0}
+  BottomRightCorner: {fileID: 0}
+  floorTile: {fileID: 0}
+  Layouts:
+    Height: 0
+    Width: 0
+    WallBlc: {fileID: 0}
+    WallBrc: {fileID: 0}
+    WallLeft: {fileID: 0}
+    WallRight: {fileID: 0}
+    WallTlc: {fileID: 0}
+    WallTrc: {fileID: 0}
+    WallCenter: {fileID: 0}
+    floorTile: {fileID: 0}
+    DoorTile: {fileID: 0}
+  tree_Smoothness: 0
+  plantsmoothness: 0

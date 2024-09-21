@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c120894aaa46764588a77b68a28a19b, type: 3}
+  m_Name: Spooky_Mountains
+  m_EditorClassIdentifier: 
+  _name: Spooky Mountains
+  biome: 7
+  LeftTopCorner: {fileID: 11400000, guid: 0dc68128fe344714fa5dd21ca8a8595a, type: 2}
+  RightTopCorner: {fileID: 11400000, guid: 84df3596553f320469de5ca544354963, type: 2}
+  RightTopCornerEdge: {fileID: 11400000, guid: 2694cac3db615494fa8386a2971a91e4, type: 2}
+  leftTopCornerEdge: {fileID: 11400000, guid: 3b2caefda5de9354fbe03ab6bbcb1d40, type: 2}
+  TopCenter: {fileID: 11400000, guid: 7937d244dc12879408e1b571a9ebc5bb, type: 2}
+  TopEdge: {fileID: 11400000, guid: 97f39c71a8e570048bdfd691d9a3e4c0, type: 2}
+  LeftCenter: {fileID: 11400000, guid: a41429df25ea7564cac5746c34103c84, type: 2}
+  LeftEdge: {fileID: 11400000, guid: 460013d974af56644a980f4a55ebfcce, type: 2}
+  Center: {fileID: 11400000, guid: e1f482c49c05d034a998f61b93704cbe, type: 2}
+  RightCenter: {fileID: 11400000, guid: 6998089e37fa92b4db6e843c7c288a68, type: 2}
+  RightEdge: {fileID: 11400000, guid: f96c72ffe4d760f4c8188da47e9de8e9, type: 2}
+  BottomCenter: {fileID: 11400000, guid: 88c8e15503ece1e42b04259cee723b17, type: 2}
+  BottomLeftCorner: {fileID: 11400000, guid: a869975259631284989b14b23d3d4718, type: 2}
+  BottomRightCorner: {fileID: 11400000, guid: bf220d2f19f603b42bfb58d7e889fbfa, type: 2}
+  floorTile: {fileID: 11400000, guid: 13cb9cfccdd20304e976ddad1050be44, type: 2}
+  left_path: {fileID: 11400000, guid: e1f482c49c05d034a998f61b93704cbe, type: 2}
+  right_path: {fileID: 11400000, guid: e1f482c49c05d034a998f61b93704cbe, type: 2}
+  center_Path: {fileID: 11400000, guid: e1f482c49c05d034a998f61b93704cbe, type: 2}
+  cave: {fileID: 11400000, guid: 6cb45759721323343b9647e5a2b91e54, type: 2}
+  Layouts:
+    Height: 0
+    Width: 0
+    WallBlc: {fileID: 0}
+    WallBrc: {fileID: 0}
+    WallLeft: {fileID: 0}
+    WallRight: {fileID: 0}
+    WallTlc: {fileID: 0}
+    WallTrc: {fileID: 0}
+    WallCenter: {fileID: 0}
+    floorTile: {fileID: 0}
+    DoorTile: {fileID: 0}
+  height: 100
+  width: 100
+  tree_Smoothness: 6
+  plantsmoothness: 6
